@@ -1,5 +1,6 @@
 # MicroPuncher
 Beginners Luck Tutorial
 Hello World
-Italian Roast cream and sugar
+Italian Roast coffee
+cream and sugar
 Piping Hot please
